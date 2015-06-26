@@ -37,13 +37,15 @@
                     </div>
                     <div n="2015office3_2" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>κλαίοντα λιγέωσ</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.5</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p> πάντας τοὺς ήρωας ἁπλότητος χάριν εὔχερῶς ἐπὶ δάκρυα ἄγει.
+                             <persName n= "urn:cite:hmt:pers.pers22">Ἀγαμέμνονα</persName>. <persName n= "urn:cite:hmt:pers.pers158">Πάτροκλοv</persName> <persName n= "urn:cite:hmt:pers.pers118"> Ὀδυσσέα</persName> ἐφ οὗ καὶ τὴν παραβολὴν τῆς χείρας ἔλαβεν.
+                             αἰεὶ δ' ἀριδάκρυες ἄνδρες <choice><sic>ἐσθλοὶ</sic><corr>ἐσθλοί</corr></choice>·λιγέως δὲ ὀξέως ἠ ἡδέως μετα γάρ τε καὶ ἄλγεσι τέρπεται ἀνήρ λιγέως ⁑</p>
                         </div>
                     </div>
                     <div n="2015office3_3" type="scholion">
@@ -54,7 +56,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.??</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p> μύροντο: ἐθρήνουν. ἢ ἐχέοντο· ὅθεν καὶ μύρον τὸ πρῶτον ἐκχυθὲν δάκρυον ἀπὸ Μύρρης τῆς μιγείσης τῷ πατρί</p>
                         </div>
                     </div>
                     <div n="2015office3_4" type="scholion">
