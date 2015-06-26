@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
     <teiHeader>
@@ -50,13 +50,13 @@
                     </div>
                     <div n="2015office3_3" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>μύροντο</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.6</p>
                         </div>
                         <div type="comment">
-                            <p> μύροντο: ἐθρήνουν. ἢ ἐχέοντο· ὅθεν καὶ μύρον τὸ πρῶτον ἐκχυθὲν δάκρυον ἀπὸ Μύρρης τῆς μιγείσης τῷ πατρί</p>
+                            <p>ἐθρήνουν ἠ ἐχέοντο. ὅθεν καὶ μῦρον τὸ πρωτον ἐκχυθὲν δάκρυον ἀπο <persName n= "urn:cite:hmt:pers.pers">Μύρης</persName> της μιγείσης τῷ πατρί ⁑</p>
                         </div>
                     </div>
                     <div n="2015office3_4" type="scholion">
