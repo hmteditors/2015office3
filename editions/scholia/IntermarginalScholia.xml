@@ -32,6 +32,29 @@
                             <p> <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> εάσωμεν·</p>
                         </div>
                     </div>
+                    <div n="2015office3_2" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.10</p>
+                        </div>
+                        <div type="comment">
+                            <p>σημειοῦνται τινες ὅτι Δωρικὸν τὸ τύνη ⁑</p>
+                        </div>
+                    </div>
+                    <div n="2015office3_3" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.17</p>
+                        </div>
+                        <div type="comment">
+                            <p> <choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρισταρχος</expan></choice></persName> 
+                                ἄλλοι δὲ <q>ἐξεφαἄνθη</q> ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
