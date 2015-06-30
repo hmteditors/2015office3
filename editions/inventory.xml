@@ -82,7 +82,6 @@
                                 xpath="/tei:div[@n = '?']"/>
                         </citation>
                     </citationMapping>
-                    </citationMapping>
                 </online>
                 
             </edition>
